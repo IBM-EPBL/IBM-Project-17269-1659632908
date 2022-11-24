@@ -7,9 +7,9 @@ Team lead:
   Rusitha U (412519205113)
 
 Team Members: 
-  Shamini G (412519205119)
-  Dinesh P (412519205034)
-  Hemanth P(412519205050)
+*  Shamini G (412519205119)
+*  Dinesh P (412519205034)
+*  Hemanth P(412519205050)
   
 Category: Machine Learning
 
