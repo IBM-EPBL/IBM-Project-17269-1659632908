@@ -20,3 +20,6 @@ Project Description:
 
 Students are often worried about their chances of admission to University. The aim of this project is to help students in shortlisting universities with their profiles. The predicted output gives them a fair idea about their admission chances in a particular university. This analysis should also help students who are currently preparing or will be preparing to get a better idea.
 
+Technical Architecture:
+
+![image](https://user-images.githubusercontent.com/101881098/203693089-5349c30e-52b8-4c9e-a96e-b1e7eaf42a8c.png)
